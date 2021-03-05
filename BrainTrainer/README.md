@@ -2,5 +2,4 @@
 _____________________________
 * Before starting the game
 
-<img src="/img/start.png" width="300" height="300">
-![startGame](./img/start.png){: width="40%" height="40%"}
+<img src="/img/start.png" width="10" height="10">
