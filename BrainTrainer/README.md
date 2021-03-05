@@ -2,4 +2,4 @@
 _____________________________
 * Before starting the game
 
-<img src="/img/start.png" width="10" height="10">
+<img src="/img/start.png" width="100" height="100">
